@@ -17,6 +17,9 @@ permalink: LINKS/
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg){:target="_blank"} ---
 Some easy-to-use commands you can use to inspect hardware. 
 These commands will help you list PCI devices, view information about your CPU, and more.
+* [Neso Academy - OS Playlist] (https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+* [Geeks for Geeks - Linux] (https://www.geeksforgeeks.org/introduction-to-linux-operating-system/)
+* [Geeks for Geeks - Operating Systems] (https://www.geeksforgeeks.org/operating-systems/)
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00

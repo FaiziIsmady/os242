@@ -21,6 +21,15 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Geeks for Geeks - Linux](https://www.geeksforgeeks.org/introduction-to-linux-operating-system/){:target="_blank"} --- Reading materials for linux by Geeks for Geeks. 
 * [Geeks for Geeks - Operating Systems](https://www.geeksforgeeks.org/operating-systems/){:target="_blank"} ---
   Reading materials for Operating Systems by Geeks for Geeks.
+* [Geeks for Geeks - c-programming-language](https://www.geeksforgeeks.org/c-programming-language/){:target="_blank"} --- Learn C programming language for beginners by Geeks for Geeks.
+* [OWASP Top Ten Security Risks](https://owasp.org/www-project-top-ten/){:target="_blank"} --- The Open Web Application Security Project (OWASP) provides a list of the top 10 security risks in web applications.
+* [Bro Code - C Programming Full Course for Free](https://www.youtube.com/watch?v=87SH2Cn0s9A
+){:target="_blank"} --- C programming free course by Bro Code.
+* [Geeks for Geeks - Cyber Security](https://www.geeksforgeeks.org/cyber-security-tutorial/){:target="_blank"} ---
+  Learning materials for Cyber Security by Geeks for Geeks.
+* [W3School - C Programming](https://www.w3schools.com/c/){:target="_blank"} --- Learning materials for C Programming language by W3school.
+
+
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00

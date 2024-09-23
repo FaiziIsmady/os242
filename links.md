@@ -28,7 +28,10 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Geeks for Geeks - Cyber Security](https://www.geeksforgeeks.org/cyber-security-tutorial/){:target="_blank"} ---
   Learning materials for Cyber Security by Geeks for Geeks.
 * [W3School - C Programming](https://www.w3schools.com/c/){:target="_blank"} --- Learning materials for C Programming language by W3school.
-
+* [Geeks for Geeks - Virtual Box](https://www.geeksforgeeks.org/what-is-virtualbox/){:target="_blank"} ---
+  Learning materials for Virtual Box by Geeks for Geeks.
+* [Tutorials Point - Linux Tar Command](https://www.tutorialspoint.com/linux-tar-command){:target="_blank"} ---
+  Learning materials for Linux Tar Command by Tutorials Point.
 
 <br>
 <br>

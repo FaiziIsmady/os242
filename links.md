@@ -32,6 +32,8 @@ These commands will help you list PCI devices, view information about your CPU, 
   Learning materials for Virtual Box by Geeks for Geeks.
 * [Tutorials Point - Linux Tar Command](https://www.tutorialspoint.com/linux-tar-command){:target="_blank"} ---
   Learning materials for Linux Tar Command by Tutorials Point.
+* [Quora - What is a stack pointer](https://www.quora.com/What-is-a-stack-pointer-in-an-operating-system){:target="_blank"} --- New knowledge about stack pointer on Quora.
+* [Geeks for Geeks - Addressing](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/){:target="_blank"} --- Info about logical and physical address in operating systems.
 
 <br>
 <br>

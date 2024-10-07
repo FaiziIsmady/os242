@@ -34,6 +34,8 @@ These commands will help you list PCI devices, view information about your CPU, 
   Learning materials for Linux Tar Command by Tutorials Point.
 * [Quora - What is a stack pointer](https://www.quora.com/What-is-a-stack-pointer-in-an-operating-system){:target="_blank"} --- New knowledge about stack pointer on Quora.
 * [Geeks for Geeks - Addressing](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/){:target="_blank"} --- Info about logical and physical address in operating systems.
+* [Geeks for Geeks - Memory](https://www.geeksforgeeks.org/memory-management-in-operating-system/){:target="_blank"} --- Memory management knowledge from Geeks for Geeks.
+* [Tutorials Point - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm){:target="_blank"} --- Info on memory management by Tutorials Point.
 
 <br>
 <br>

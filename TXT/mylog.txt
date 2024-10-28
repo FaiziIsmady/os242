@@ -93,3 +93,15 @@ ZCZC W05 30 L15 Assignment #05
 ZCZC W05 100 L32 YouTube: watching OS related topics, etc.
 ZCZC W05 50 L40 TXT/ related in general.
 ZCZC W05 240 L88 Workout/Sport/Exercise/ETC.
+ZCZC W06 150 L00 General, etc.
+ZCZC W06 240 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 30 L04 GitHub Pages related
+ZCZC W06 60 L09 Assignment in General
+ZCZC W06 20 L11 Assignment #01
+ZCZC W06 20 L12 Assignment #02
+ZCZC W06 20 L13 Assignment #03
+ZCZC W06 20 L14 Assignment #04
+ZCZC W06 20 L15 Assignment #05
+ZCZC W06 60 L21 Trying something
+ZCZC W06 120 L73 Gaming including Board Games.
+ZCZC W06 180 L88 Workout/Sport/Exercise/ETC. 

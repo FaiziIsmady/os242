@@ -40,6 +40,8 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Geeks for Geeks - Threads](https://www.geeksforgeeks.org/thread-in-operating-system/){:target="_blank"} --- Threads in operating systems by Geeks for Geeks.
 * [Geeks for Geeks - Semaphore](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/){:target="_blank"} --- Semaphore in operating systems by Geeks for Geeks.
 * [Java Code Geeks - Semaphore](https://www.javacodegeeks.com/2023/08/understanding-semaphores-synchronizing-your-code-like-a-pro.html){:target="_blank"} --- Understanding Semaphore.
+* [Geeks for Geeks - Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/){:target="_blank"} --- Scheduling in operating systems by Geeks for Geeks.
+* [Tutorials Point - Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm){:target="_blank"} --- Scheduling in operating systems by Tutorials Point.
 
 <br>
 <br>
